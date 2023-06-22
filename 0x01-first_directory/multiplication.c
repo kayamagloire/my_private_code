@@ -6,7 +6,7 @@
  * Return: 0 (success)
  */
 
-/* Function declaration */
+/* Function prototype */
 
 int multiply(int x, int y);
 
